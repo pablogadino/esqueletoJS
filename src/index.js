@@ -10,4 +10,4 @@ export async function printUsers() {
   return element;
 }
 
-printUseris().then((element) => document.body.appendChild(element));
+printUsers().then((element) => document.body.appendChild(element));
